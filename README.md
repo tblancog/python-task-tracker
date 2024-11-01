@@ -12,6 +12,9 @@ A simple task manager built in Python, allowing users to add, update, delete, li
 ## Prerequisites
 - Python 3.x
 
+## Project URL
+[Roadmap.sh Task tracker](https://roadmap.sh/projects/task-tracker)
+
 ## Setup
 Clone the repository and navigate to the project directory.
 
